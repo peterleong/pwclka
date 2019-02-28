@@ -13,8 +13,17 @@ Activities
 * [Convnetjs MNIST Demo] (https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
 
 #### Part 2
+Activities
+* [KMeans Demo] (http://shabal.in/visuals/kmeans/1.html)
+* [Autoencoder] (https://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html)
+* [Deep Dream Generator] (https://deepdreamgenerator.com/)
+* [Convnetjs CIFAR10 Demo] (http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+* [Reinforcement Learning Demo1] (https://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
+* [Reinforcement Learning Demo2] (https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 
 #### Part 3
+Activities/Lab
+* [Azure ML Studio] ()
 
 #### Part 4
 
