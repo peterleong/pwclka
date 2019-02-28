@@ -5,7 +5,7 @@
 
 #### Part 1
 Activities
-* [GAN Demo - Make Girls] (http://make.girls.moe)
+* [Make Girls GAN Demo - http://make.girls.moe](http://make.girls.moe)
 * [IBM Watson - Bear Naked Custom Granola] (https://www.bearnakedcustom.com/BearNaked)
 * [Deep Dream Generator] (https://deepdreamgenerator.com/)
 * [Machine Learning Playground] (https://peterleong.github.io/ML-Playground/)
