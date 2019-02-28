@@ -1,4 +1,5 @@
-### Introduction to AI and Machine Learning (Singapore Polytechnic & PWC Academy Sri Lanka)
+### Introduction to AI and Machine Learning 
+#### (Singapore Polytechnic & PWC Academy Sri Lanka)
 ---
 
 #### Part 1
