@@ -2,6 +2,8 @@
 #### (Singapore Polytechnic & PWC Academy Sri Lanka)
 ---
 
+* http://make.girls.moe
+
 #### Part 1
 Activities
 * [GAN Demo - Make Girls] (http://make.girls.moe)
