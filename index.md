@@ -15,19 +15,19 @@ Activities
 
 #### Part 2
 Activities
-* [KMeans Demo] (http://shabal.in/visuals/kmeans/1.html)
-* [Autoencoder] (https://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html)
-* [Deep Dream Generator] (https://deepdreamgenerator.com/)
-* [Convnetjs CIFAR10 Demo] (http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
-* [Reinforcement Learning Demo1] (https://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
-* [Reinforcement Learning Demo2] (https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
+* [KMeans Demo - http://shabal.in/visuals/kmeans/1.html](http://shabal.in/visuals/kmeans/1.html)
+* [Autoencoder - https://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html](https://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html)
+* [Deep Dream Generator - https://deepdreamgenerator.com/](https://deepdreamgenerator.com/)
+* [Convnetjs CIFAR10 Demo - http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+* [Reinforcement Learning Demo1 - https://cs.stanford.edu/people/karpathy/reinforcejs/index.html](https://cs.stanford.edu/people/karpathy/reinforcejs/index.html)
+* [Reinforcement Learning Demo2 - https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 Problem Framing
-* [Google ML Problem Framing] (https://developers.google.com/machine-learning/problem-framing/)
-* [ML Canvas] (http://www.louisdorard.com/ml-canvas/)
-* [DL Canvas] (https://medium.com/intuitionmachine/introducing-the-deep-learning-canvas-a2e80a998f11)
+* [Google ML Problem Framing - https://developers.google.com/machine-learning/problem-framing/](https://developers.google.com/machine-learning/problem-framing/)
+* [ML Canvas](http://www.louisdorard.com/ml-canvas/)
+* [DL Canvas](https://medium.com/intuitionmachine/introducing-the-deep-learning-canvas-a2e80a998f11)
 
 #### Part 3-6
 Activities/Lab
-* [Azure ML Studio] (https://studio.azureml.net/)
+* [Azure ML Studio - https://studio.azureml.net/](https://studio.azureml.net/)
 
 
